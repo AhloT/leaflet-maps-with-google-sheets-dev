@@ -3,7 +3,7 @@ code development for improving Leaflet Maps with Google Sheets
 
 ## DEVELOPMENT Demo
 - Leaflet Map FOR DEVELOPMENT [https://ahlot.github.io/leaflet-maps-with-google-sheets-dev/]
-- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
+- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1uYC4MSmAe8VweLelNg3MTLXrpAV3UxzGmTJPt5j1qyk/edit?gid=0#gid=0
 
 ## See official releases in the MAIN repo
 - Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets/index.html
